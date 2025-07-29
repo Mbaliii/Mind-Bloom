@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Playfair+Display:wght@400;500;600;700&display=swap');
+
+
+:root {
+    --primary: #6c63FF;
+    --secondary: #D9C7FF;
+    --accent: #FF6584;
+    --light: #F8F9FA;
+    --dark: #212529;
+    --success: #28A745;
+    --warning: #FFC107;
+    --info: #17A2B8;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #FAFAFF;
+    color: var(--dark);
+    min-height: 100vh;
+}
+
+.title-font {
+    font-family: 'Playfair Display', serif;
+}
+
+.gradient-bg {
+    background: linear-gradient(135deg, #F5F7FF 0%, #E8ECFF 100%);
+}
+
+.journal-card {
+    background: rgba(255, 255, 0.85);
+    backdrop-filter: blur(10px);
+    border-radius: 16px;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.5);
+}
+
+.mood-option {
+    transition: all 0.3s ease;
+}
+
+.mood-option:hover {
+    transform: scale(1.1);
+}
+
+.mood-selected {
+    transform: scale(1.15);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.affirmation-card {
+    background: linear-gradient(135deg, #6C63FF 0%, #8D8AFF 100%);
+    color: white;
+}
+
+.btn-primary {
+    background: var(--primary);
+    color: white;
+    transition: all 0.3s ease;
+}
+
+.btn-primary:hover {
+    background: #5A52E0;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(108, 99, 255, 0.25);
+}
+.btn-secondary{
+    background: white;
+    color: var(--primary);
+    border: 2px solid var(--primary);
+    transition: all 0.3s ease;
+}
+
+.btn-secondary:hover{
+    background: var(--primary);
+    color: white;
+    transform: translateY(-2px)
+}
+
+.journal-entry:focus{
+    box-shadow: 0 0 0 2px var(--primary);
+}
+
+.navigation{
+    backdrop-filter: blur(10px);
+    background: rgba(255, 255, 255, 0.8);
+}
+
+@media(max-width: 768px) {
+    .mobile-hidden{
+        display: none
+    }
+}
