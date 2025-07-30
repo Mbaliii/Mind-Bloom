@@ -1,1 +1,76 @@
 
+
+    <!-- Journal Section -->
+    <!-- <section id="journal" class="py-12 px-4 bg-white">
+        <div class="max-w-7xl mx-auto">
+            <div class="text-center mb-12">
+                <h2 class="title-font text-3xl md:text-4xl font-bold text-gray-900 mb-4">Daily Journal</h2>
+                <p class="max-w-2xl mx-auto text-gray-600">Capture your thoughts, track your moods, and recieve
+                    personalized affirmations tailored to your emotional state</p>
+            </div>
+
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+                <div class="journal-card p-6">
+                    <div class="flex-items-center mb-4">
+                        <div class="w-12 h-12 rounded-full bg-indigo-100 flex items-center justify-center mr-4">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-indigo-600" fill="none"
+                                viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                            </svg>
+                        </div>
+                        <h3 class="font-semibold text-lg">Guided Prompts</h3>
+                    </div>
+                    <p class="text-gray-600 mb-4">Structured prompts help you explore your feelings without feeling
+                        overwhelmed</p>
+                    <div class="bg-indigo-50 p-4 rounded-lg">
+                        <p class="text-gray-700 italic">"What small accomplishment made you proud today?"</p>
+                    </div>
+                </div>
+
+                <div class="journal-card p-6">
+                    <div class="flex items-center mb-4">
+                        <div class="w-12 h-12 rounded-full bg-pink-100 flex items-center justify-center mr-4">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-pink-500" fill="none"
+                                viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M4.318 6.318a4.5 4.5 0 000 6.364L12 20.364l7.682-7.682a4.5 4.5 0 00-6.364-6.364L12 7.636l-1.318-1.318a4.5 4.5 0 00-6.364 0z" />
+                            </svg>
+                        </div>
+                        <h3 class="font-semibold text-lg">Mood Tracking</h3>
+                    </div>
+                    <p class="text-gray-600 mb-4">Visualize your emotional patterns with our interactive mood tracker.
+                    </p>
+                    <div class="flex justify-between mb-2">
+                        <span class="text-xs font-medium text-gray-500">Low</span>
+                        <span class="text-xs font-medium text-gray-500">High</span>
+                    </div>
+
+                    <div class="bg-gray-100 rounded-full h-2">
+                        <div class="bg-gradient-to-r from-indigo-400 to-pink-500 h-2 rounded-full" style="width: 65%">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="journal-card p-6">
+                    <div class="flex items-center mb-4">
+                        <div class="w-12 h-12 rounded-full bg-yellow-100 flex items-center justify-center mr-4">
+                            <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6 text-yellow-500" fill="none"
+                                viewBox="0 0 24 24" stroke="currentColor">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M14.828 14.828a4 4 0 01-5.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
+                            </svg>
+                        </div>
+                        <h3 class="font-semibold text-lg">Positive Affirmations</h3>
+                    </div>
+
+                    <p class="text-gray-600 mb-4">Receive personalized affirmations based on your journal entries and
+                        mood.</p>
+
+                    <div class="bg-gradient-to-r from-indigo-100 to-purple-100 p-4 rounded-lg">
+                        <p class="text-indigo-700 italic">"Challenges help me grow stronger and more resilient."</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section> -->
